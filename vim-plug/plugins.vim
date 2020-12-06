@@ -8,6 +8,8 @@ call plug#begin('~/.config/nvim/plugged')
 
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
+    Plug 'mattn/emmet-vim'
+
     Plug 'tomasiser/vim-code-dark'
 
     Plug 'vim-airline/vim-airline'

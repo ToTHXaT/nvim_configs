@@ -137,4 +137,4 @@ set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
 " Do default action for previous item.
 "nnoremap <silent> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list.
-"nnoremap <silent> <space>p  :<C-u>CocListResume<CR>
+"nnoremap <silet> <space>p  :<C-u>CocListResume<CR>
