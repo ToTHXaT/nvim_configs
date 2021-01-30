@@ -10,6 +10,12 @@ call plug#begin('~/.config/nvim/plugged')
 
     Plug 'mattn/emmet-vim'
 
+    Plug 'kevinhwang91/rnvimr'
+
+    Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+    Plug 'junegunn/fzf.vim'
+    Plug 'airblade/vim-rooter'
+
     Plug 'tomasiser/vim-code-dark'
 
     Plug 'vim-airline/vim-airline'

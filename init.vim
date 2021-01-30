@@ -10,6 +10,8 @@ if !exists('g:vscode')
     source $HOME/.config/nvim/vim-plug/plug-settings/nerdtree.vim
     source $HOME/.config/nvim/vim-plug/plug-settings/commentary.vim
     source $HOME/.config/nvim/vim-plug/plug-settings/emmet-vim.vim
+    source $HOME/.config/nvim/vim-plug/plug-settings/rnvrm.vim
+    source $HOME/.config/nvim/vim-plug/plug-settings/fzf.vim
     colorscheme codedark
 endif
 
